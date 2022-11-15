@@ -1,15 +1,14 @@
-# 
+# **Query a Digital Music Store Database**
 
-**Query a Digital Music Store Database **
-  
- | Contents                                                                                                             | 
- | --------                                                                                                             | 
- | [Project Description](#Project-Description)                                   | 
- | [Database ERD](#Database-ERD)                                                            | 
- | [Questions](#questions)                                                                        | 
- | [Conclusion](#Conclusion)                                                                        | 
- | [Built with](#Built-with)                                                                           | 
-  
+| Contents 											 	   	|
+| -------- 											 	   	|
+| [Project Description](#Project-Description)			   	|
+| [Database ERD](#Database-ERD) 		   					|
+| [Questions](#questions)									|
+| [Conclusion](#Conclusion)									|
+| [Built with](#Built-with)
+
+
  ## Project Description:  
  This project is part of Advanced Data Analysis FWD Udacity Nanodegree Program. In this project, we will query the Chinook Database, a digital music store, w 
  e will be assisting the Chinook team with understanding the media in their store, their customers and employees,  
