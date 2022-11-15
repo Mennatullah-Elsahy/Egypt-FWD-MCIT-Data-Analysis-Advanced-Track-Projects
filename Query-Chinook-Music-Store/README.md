@@ -1,4 +1,6 @@
-# Query a Digital Music Store Database 
+# 
+
+**Query a Digital Music Store Database **
   
  | Contents                                                                                                             | 
  | --------                                                                                                             | 
