@@ -7,8 +7,8 @@ ___
 
 | No.       | Project                                                    			| 
 | ---       | -------                                                    			|
-| Project 1 | [Query Chinook Music Store(SQL Project)]()	| 
-| Project 2 | 			|
+| Project 1 | [Query Chinook Music Store(SQL Project)](https://github.com/Mennatullah-Elsahy/abc/tree/master/Query-Chinook-Music-Store)	| 
+| Project 2 | [Analyze-AB-Test-Results(Statstics Project)]()		|
 | Project 3 |    			|
 | Project 4 |    			|
 | Project 5 |    			|
